@@ -36,8 +36,8 @@ Goal of the program was that it allows the user to access two different financia
 
 ### Built With
 
-* [![Python]][python.org/downloads/]
-* [![VisualStudioCode]][https://code.visualstudio.com/download]
+* [Python][python.org/downloads/]
+* [VisualStudioCode][https://code.visualstudio.com/download]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -77,7 +77,7 @@ Program that allows the user to access two different financial calculators: an i
 
 Esther Slabbert - super.ejs@gmail.com
 
-Project Link: [https://github.com/EstherSlabbert/Regression-models](https://github.com/EstherSlabbert/Regression-models)
+Project Link: [https://github.com/EstherSlabbert/Variables-and-control-structuress](https://github.com/EstherSlabbert/Variables-and-control-structures)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
