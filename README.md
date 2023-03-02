@@ -77,7 +77,7 @@ Program that allows the user to access two different financial calculators: an i
 
 Esther Slabbert - super.ejs@gmail.com
 
-Project Link: [https://github.com/EstherSlabbert/Variables-and-control-structuress](https://github.com/EstherSlabbert/Variables-and-control-structures)
+Project Link: [https://github.com/EstherSlabbert/Variables-and-control-structures](https://github.com/EstherSlabbert/Variables-and-control-structures)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
