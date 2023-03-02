@@ -53,7 +53,7 @@ To get a local copy up and running follow these simple example steps.
 1. Ensure you have the latest python program installed from: python.org/downloads/.
 2. Clone the repository
    ```sh
-   git clone https://github.com/EstherSlabbert/Variables-and-control-structuress.git
+   git clone https://github.com/EstherSlabbert/Variables-and-control-structures.git
    ```
 3.  Run program(s) as you see fit.
    I used Visual Studio Code which can be found here: https://code.visualstudio.com/download.
